@@ -1,4 +1,4 @@
-M<img width="2000" height="1123" alt="image" src="https://github.com/user-attachments/assets/6d678416-e0d8-4917-9be4-6a2139aede86" /># Address_Book
+
 A robust, menu-driven Address Book application built in C for managing contacts via the command line. It performs full CRUD operations with input validation and CSV-based persistence crafted using modular design and static memory.
 
 What makes it unique? It mirrors real-world logic with structured arrays, uses formatted I/O for clarity, and stores data in a way that opens seamlessly in Excel. No dynamic memory, no libraries—just pure C, precision, and purpose.
