@@ -41,7 +41,26 @@ contacts_data.abook   -   Stores all address book entries in a custom pipe-separ
 
 # Sample Input/Output :
 
+# Sample I/O 1 : Creating a Contact.
+
 <img width="669" height="423" alt="image" src="https://github.com/user-attachments/assets/01ca1e13-bd27-4148-b93b-e0b921b6f8b5" />
+
+# Sample I/O 2 : Search Contact.
+<img width="792" height="630" alt="image" src="https://github.com/user-attachments/assets/879269ae-41cb-49af-b0f4-793559b57087" />
+
+# Sample I/O 3: Edit Contact.
+
+<img width="853" height="782" alt="image" src="https://github.com/user-attachments/assets/5c9c603a-187c-4b83-8697-52721d128702" />
+
+# Sample I/O 4:Deleting a Contact.
+<img width="825" height="638" alt="image" src="https://github.com/user-attachments/assets/67c3af74-b392-49df-85aa-ef398f0fae61" />
+
+
+
+
+
+
+
 
 
 
