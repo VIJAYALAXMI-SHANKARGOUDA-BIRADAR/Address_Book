@@ -41,7 +41,9 @@ contacts_data.abook   -   Stores all address book entries in a custom pipe-separ
 
 # Sample Input/Output :
 
-![Uploading image.png…]()
+<img width="837" height="416" alt="image" src="https://github.com/user-attachments/assets/219d9d7f-0b66-497f-9ebe-ca13068b7a83" />
+
+
 
 
 
