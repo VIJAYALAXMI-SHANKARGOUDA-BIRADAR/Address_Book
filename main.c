@@ -1,3 +1,17 @@
+/*
+NAME:VIJAYALAXMI SHANKARGOUDA BIRADAR
+DATE:20-08-2025
+DESCRIPTION:This program is about  an address book system project.
+            It can create contacts with validated Name,Phone,and Email.
+            It can list all contacts sorted by name,phone or email.
+            It can search contacts by any field.
+            It can edit selected contact details.
+            It can delete contacts which is selected.
+            save all changes to a file before exit.
+            The  program IS implemented using strings pointers,functions,structures ,files and basic of c.
+*/
+
+
 #include <stdio.h>
 #include "contact.h"
 #include "file.h"
@@ -48,3 +62,4 @@ int main() {
     
        return 0;
 }
+
