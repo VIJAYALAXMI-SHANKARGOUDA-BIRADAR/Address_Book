@@ -19,7 +19,8 @@ This Address Book project is a command-line application developed in C using str
 The program avoids dynamic memory and external libraries, relying on arrays, structures, and standard file I/O (fopen, fscanf, fprintf).
 
 # Work Flow
-![Uploading Screenshot 2025-09-26 002752.png…]()
+![Uploading image.png…]()
+
 
 
 
