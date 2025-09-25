@@ -76,7 +76,7 @@ void listContacts(AddressBook *addressBook, int sortCriteria)
     printf("Total contacts: %d\n", addressBook->contactCount);
     printf("----------------------------------------------------------------------------------\n");
 } // end listContacts
-
+//==================================================================================================================
 
 //====================== SAVE AND EXIT ===========================
 void saveAndExit(AddressBook *addressBook)
@@ -92,7 +92,8 @@ void createContact(AddressBook *addressBook)
     char name[50], phone[20], email[50];
     int valid_name, valid_phone, valid_email;
     
-    // Validate Name
+   ///////// // Validate Name////////////
+	
     do {
         printf("Enter Name: ");
         scanf(" %[^\n]", name);
@@ -119,7 +120,8 @@ void createContact(AddressBook *addressBook)
     } while(valid_name == 0);
     strcpy(addressBook->contacts[addressBook->contactCount].name, name);
 
-    // Validate Phone
+    /////////// Validate Phone///////
+	
     do {
         printf("Enter Mobile Number: ");
         scanf("%s", phone);
@@ -155,8 +157,10 @@ void createContact(AddressBook *addressBook)
 
     } while(valid_phone == 0);
     strcpy(addressBook->contacts[addressBook->contactCount].phone, phone);
+	
 
-    // Validate Email
+   ////////////////////// // Validate Email//////////////////////////////////////
+	
     do {
         printf("Enter Email: ");
         scanf(" %[^\n]", email);
@@ -197,6 +201,7 @@ void createContact(AddressBook *addressBook)
     // Increase contact count
     addressBook->contactCount++;
 } // end createContact
+//===========================================================================================================
 
 
 //====================== SEARCH CONTACT ==========================
@@ -390,3 +395,4 @@ void deleteContact(AddressBook *addressBook)
 
     printf("Contact deleted successfully.\n");
 } // end deleteContact
+
