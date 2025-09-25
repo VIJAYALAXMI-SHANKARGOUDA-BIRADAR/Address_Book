@@ -55,6 +55,18 @@ contacts_data.abook   -   Stores all address book entries in a custom pipe-separ
 # Sample I/O 4:Deleting a Contact.
 <img width="825" height="638" alt="image" src="https://github.com/user-attachments/assets/67c3af74-b392-49df-85aa-ef398f0fae61" />
 
+# Sample I/O 5 : List All Contacts.
+
+<img width="787" height="828" alt="image" src="https://github.com/user-attachments/assets/72d9f2d6-d83d-4217-8ad1-13ab412758c4" />
+
+# Sample I/O 6 : Exiting the Program.
+
+<img width="749" height="274" alt="image" src="https://github.com/user-attachments/assets/01a542b6-1e05-4447-987d-2d026ac06bc7" />
+
+
+
+
+
 
 
 
