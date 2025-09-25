@@ -23,13 +23,21 @@ M<img width="2000" height="1123" alt="image" src="https://github.com/user-attach
 
 # Files included :
 contact.h       - Header file with data structures and function declarations
+
 contact.c       - Implementation of contact management functions
+
 file.h          - Header for file operations
+
 file.c          - Implementation of file I/O functions
+
 main.c          - Main program with menu interface
+
 populate.h      - Header for dummy data population
+
 populate.c      - Dummy contact data for testing
+
 contacts.csv    - Data file storing contacts in CSV format
+
 
 
 
