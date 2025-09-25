@@ -36,7 +36,7 @@ void loadContactsFromFile(AddressBook *addressBook)
     }
     
 
-    //read count2qqqqqqqqwq
+    //read contactcount
     fscanf(fptr,"%d\n",&addressBook->contactCount);
     
     //read contact
@@ -48,4 +48,5 @@ void loadContactsFromFile(AddressBook *addressBook)
     addressBook->contacts[i].email);
     }
     fclose(fptr);
+
 }
