@@ -22,7 +22,7 @@ The program avoids dynamic memory and external libraries, relying on arrays, str
 <img width="2000" height="1123" alt="image" src="https://github.com/user-attachments/assets/6d678416-e0d8-4917-9be4-6a2139aede86" />
 
 # Files included :
-contact.h       -   Contains all necessary data types and declares the functions for                        managing contacts.
+# contact.h       -   Contains all necessary data types and declares the functions for                        managing contacts.
 
 contact.c       -   Houses the full implementation logic for handling contact                               operations.
 
