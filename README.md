@@ -52,11 +52,8 @@ Address Book Menu:
 Enter your choice: 1
 
 Enter Name: VIJAYALAXMI BIRADAR
-
 Enter Mobile Number: 6361704348
-
 Enter Email: vijaylacmi@gmail.com
-
 --------------------------------------------------------------
 Contact Added Successfully
 --------------------------------------------------------------
@@ -70,7 +67,6 @@ Address Book Menu:
 6. Save and exit contacts
 
 Enter your choice:
-
 
 
 
