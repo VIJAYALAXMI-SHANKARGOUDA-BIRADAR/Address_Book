@@ -18,7 +18,7 @@ This Address Book project is a command-line application developed in C using str
 - Saving and loading contacts via a CSV file for persistence
 The program avoids dynamic memory and external libraries, relying on arrays, structures, and standard file I/O (fopen, fscanf, fprintf).
 
-> *** **Why CSV? – The Jacket Analogy**  
+> # Why CSV? **  
 > Choosing a file format is like choosing the right jacket.  
 > Suppose Jacket J1 works for both rainy and winter seasons, while Jacket J2 is only for winter and Jacket J3 is only for rain. Naturally, we prefer Jacket J1 because it’s more versatile.
 
