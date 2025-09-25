@@ -312,7 +312,11 @@ int searchContact(AddressBook *addressBook)
 } // end searchContact
 
 
+
+
 //====================== EDIT CONTACT ==========================
+
+
 void editContact(AddressBook *addressBook)
 {
     if(addressBook->contactCount == 0) 
@@ -374,7 +378,11 @@ void editContact(AddressBook *addressBook)
     } // end switch
 } // end editContact
 
+
+
 //====================== DELETE CONTACT ==========================
+
+
 void deleteContact(AddressBook *addressBook)
 {
     if(addressBook->contactCount == 0)
@@ -395,4 +403,5 @@ void deleteContact(AddressBook *addressBook)
 
     printf("Contact deleted successfully.\n");
 } // end deleteContact
+
 
