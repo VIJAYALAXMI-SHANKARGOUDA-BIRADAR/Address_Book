@@ -41,7 +41,32 @@ contacts_data.abook   -   Stores all address book entries in a custom pipe-separ
 
 # Sample Input/Output :
 
-<img width="837" height="416" alt="image" src="https://github.com/user-attachments/assets/219d9d7f-0b66-497f-9ebe-ca13068b7a83" />
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save and exit contacts
+
+Enter your choice: 1
+
+Enter Name: VIJAYALAXMI BIRADAR
+Enter Mobile Number: 6361704348
+Enter Email: vijaylacmi@gmail.com
+--------------------------------------------------------------
+Contact Added Successfully
+--------------------------------------------------------------
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save and exit contacts
+
+Enter your choice:
 
 
 
