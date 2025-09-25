@@ -22,22 +22,21 @@ The program avoids dynamic memory and external libraries, relying on arrays, str
 <img width="2000" height="1123" alt="image" src="https://github.com/user-attachments/assets/6d678416-e0d8-4917-9be4-6a2139aede86" />
 
 # Files included :
-contact.h         -  Header file with data structures and function declarations
+contact.h       - Contains all necessary data types and declares the functions for managing contacts.
 
-contact.c         -  Implementation of contact management functions
+contact.c       - Houses the full implementation logic for handling contact operations.
 
-file.h            -  Header for file operations
+file.h          - Declares functions and structures for reading from and writing to data files.
 
-file.c            -  Implementation of file I/O functions
+file.c          - Implements detailed file input/output routines for persistent contact storage.
 
-main.c            -  Main program with menu interface
+main.c          - Controls the user interface and orchestrates menu-driven interactions.
 
-populate.h         -  Header for dummy data population
+populate.h      - Provides declarations for populating the address book with sample entries.
 
-populate.c        -  Dummy contact data for testing
+populate.c      - Implements test data routines for quickly filling the address book.
 
-address_book.csv      -  Data file storing contacts in CSV format
-
+contacts_data.abook   - Stores all address book entries in a custom pipe-separated format for uniqueness.
 
 
 
