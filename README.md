@@ -8,7 +8,18 @@ Name : Vijayalaxmi Shankargouda Biradar
 
 Date : 20/08/2025
 
-# Description
+# 📝 Description
+This Address Book project is a command-line application developed in C using structured programming principles. It allows users to manage contact information—name, phone, and email—with full control over:
+- Creating new contacts with input validation
+- Searching contacts by name, phone, or email (case-insensitive)
+- Editing existing contact details
+- Deleting contacts with confirmation
+- Listing all contacts with optional sorting
+- Saving and loading contacts via a CSV file for persistence
+The program avoids dynamic memory and external libraries, relying on arrays, structures, and standard file I/O (fopen, fscanf, fprintf). 
+
+
+
 
 
 
